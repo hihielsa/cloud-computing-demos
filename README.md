@@ -2,7 +2,7 @@
 
 This repository contains a series of demonstrations covering cloud computing technologies including AWS, Google Cloud Platform (GCP), containerization, machine learning, microservices, monitoring, and CI/CD automation.
 
-The demonstrations illustrate how modern cloud applications can be deployed, monitored, and automated using industry tools and platforms.
+These demonstrations were developed as part of a cloud computing coursework project and illustrate how modern cloud applications can be deployed, monitored, and automated using industry tools and platforms.
 
 ---
 
@@ -18,7 +18,7 @@ The demonstrations illustrate how modern cloud applications can be deployed, mon
 | Week 7 | Containerized Microservice Application (Golang) | Cloud |[Watch Video](https://youtu.be/j_dpFsQ_WsE?si=GLeuAYWRKDXNOTkb)|
 | Week 8 | Containerized Pub/Sub Microservice Architecture | GCP |[Watch Video](https://youtu.be/fqWgdhMzvrY?si=O1mEk7hR0bDjhm9w)|
 | Week 9 | Application Monitoring with Prometheus and Grafana | Cloud |[Watch Video](https://youtu.be/W2DJwvJJANI?si=7kXsJkrArMKKfGjK)|
-| Week 10 | Continuous Integration with GitHub Actions | Cloud |[Watch Video](https://youtu.be/pCgYyAvBTgU?si=OaOrVrQ7dMTFncsn)|
+| Week 10 | CI/CD Automation with GitHub Actions | Cloud |[Watch Video](https://youtu.be/pCgYyAvBTgU?si=OaOrVrQ7dMTFncsn)|
 
 ---
 
