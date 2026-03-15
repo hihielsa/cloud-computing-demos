@@ -10,7 +10,7 @@ The demonstrations illustrate how modern cloud applications can be deployed, mon
 
 | Week | Topic | Platform | Video |
 |------|------|----------|-------|
-| Week 1 | Cloud Environment Setup | AWS / GCP | [Watch Video- AWS](https://youtu.be/4wdPsm9KpWk?si=szPl2SFvv2Qdhui_)|
+| Week 1 | Cloud Environment Setup | AWS / GCP | [Watch Video- AWS](https://youtu.be/4wdPsm9KpWk?si=szPl2SFvv2Qdhui_), [GCP](https://youtu.be/H5Mvf3dPxB4?si=GIV56-30k9vmFOYQ)|
 | Week 2 | GitHub Project Deployment | AWS / GCP |
 | Week 3 | Containerized Application Deployment | AWS / GCP |
 | Week 5 | Machine Learning with BigQuery ML | GCP |
